@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-I am Osama Mohamed 
+### I am Osama Mohamed 
+### Junior Python Developer
 
 - 🔭 Student at on FCAI BSU in Egypt 
 - 🌱 learning Machine Learing 
