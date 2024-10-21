@@ -27,6 +27,9 @@
   <img src="https://komarev.com/ghpvc/?username=osamam0&label=Profile%20views&color=3d0487&style=flat" alt="Osama Mo" /></a>
 </p>  
 <p align="center">
+	<a href="https://www.kaggle.com/osamam0">
+		<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+	</a>
 	<a href="https://www.linkedin.com/in/osamam0/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
